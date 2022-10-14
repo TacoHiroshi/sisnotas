@@ -318,7 +318,7 @@ return [
             'label'       => 4,
             'label_color' => 'success',
         ],
-        ['header' => 'account_settings'],
+        ['header' => 'Procesos Disponibles'],
         [
             'text' => 'profile',
             'url'  => 'admin/settings',
